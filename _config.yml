@@ -33,18 +33,19 @@ projects:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+   instagram: samird
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
-  # medium: your_username
+   medium: samird
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+   twitter: samird
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
+  kaggle: samirhd
 
 topics:
   - name: CSS
