@@ -47,12 +47,24 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Competition & Antitrust
+    web_url: https://comparativecompetitionlaw.org
+    image_url: https://cdn1.iconfinder.com/data/icons/business-and-marketing-8/174/BUSINESS_AND_MARKETING_Black-24-512.png
 
-  - name: Web design
+  - name: AI Ethics
 
   - name: Politics
     web_url: https://www.dataforprogress.org/
     image_url: https://www.jing.fm/clipimg/full/195-1957575_capitol-building-icon-transparent.png
+
+  - name: Gender Equity
+    web_url: https://genderstats.un.org/
+    image_url: https://www.lbcc.edu/sites/main/files/imagecache/lightbox/main-images/preferred-name-gender-tile.jpg
+
+  - name: Surf
+    web_url: https://magicseaweed.com/developer/forecast-api
+    image_url: https://cdn2.iconfinder.com/data/icons/hobby-butterscotch-vol-3/512/Surfing-512.png
+
+  - name: Natty Wine
+    web_url: https://www.bonappetit.com/story/is-natural-wine-better-for-the-planet
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhuf-PGfG_YFzofeAmuH-3SMd7qmiV-drwPT51AdM7SiJ_RCOn
