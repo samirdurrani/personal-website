@@ -17,27 +17,27 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
-    archived: false
+    archived: true
     forks: true
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: http://instagram.com/samird
   # keybase: your_username
-  linkedin: https://www.linkedin.com/in/samirdurrani/
+  # linkedin: samirdurrani
   # mastodon: your_username
-  # medium: https://medium.com/@samird
+  # medium: samirrr9
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: http://twitter.com/samird
@@ -47,23 +47,25 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Competition & Antitrust
-    web_url: https://comparativecompetitionlaw.org
-    image_url: https://cdn1.iconfinder.com/data/icons/business-and-marketing-8/174/BUSINESS_AND_MARKETING_Black-24-512.png
+  - name: Surf
+    web_url: https://magicseaweed.com/developer/forecast-api
+    image_url: https://cdn2.iconfinder.com/data/icons/hobby-butterscotch-vol-3/512/Surfing-512.png
 
-  - name: AI Ethics
+  - name: Python
+    web_url: https://www.python.org/
+    image_url: http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png
+
+  - name: Pride
+    web_url: https://donate.lalgbtcenter.org/secure/help-build-world-where-lgbt-people-thrive
+    image_url: https://image.flaticon.com/icons/svg/2620/2620829.svg
 
   - name: Politics
     web_url: https://www.dataforprogress.org/
     image_url: https://www.jing.fm/clipimg/full/195-1957575_capitol-building-icon-transparent.png
 
   - name: Gender Equity
-    web_url: https://genderstats.un.org/
+    #web_url: https://genderstats.un.org/
     image_url: https://www.lbcc.edu/sites/main/files/imagecache/lightbox/main-images/preferred-name-gender-tile.jpg
-
-  - name: Surf
-    web_url: https://magicseaweed.com/developer/forecast-api
-    image_url: https://cdn2.iconfinder.com/data/icons/hobby-butterscotch-vol-3/512/Surfing-512.png
 
   - name: Natty Wine
     web_url: https://www.bonappetit.com/story/is-natural-wine-better-for-the-planet
